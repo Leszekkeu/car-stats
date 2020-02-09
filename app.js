@@ -1,3 +1,15 @@
+var firebaseConfig = {
+    apiKey: "AIzaSyBvvkfXmOi6aN6EZ1Q1wlkiuO6QoIrL-54",
+    authDomain: "webaily.firebaseapp.com",
+    databaseURL: "https://webaily.firebaseio.com",
+    projectId: "webaily",
+    storageBucket: "webaily.appspot.com",
+    messagingSenderId: "9902598182",
+    appId: "1:9902598182:web:caba56c535ea060a7cdee7"
+};
+firebase.initializeApp(firebaseConfig);
+const auth = firebase.auth();
+const db = firebase.firestore();
 var readytotable = false;
 var select = false;
 var logged = false;
