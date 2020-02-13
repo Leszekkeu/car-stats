@@ -39,7 +39,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "fc5eb7452c49e0360c4637cefa33dbff"
+    "revision": "144988bc6f143c8b309f84ce3ce4e061"
   },
   {
     "url": "logo-leszekkeu.svg",
